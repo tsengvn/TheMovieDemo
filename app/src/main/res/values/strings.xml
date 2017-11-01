@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TheMovieDemo</string>
+    <string name="rating">Rating: %.2f</string>
+    <string name="genres">Genres:</string>
+    <string name="productions">Productions:</string>
+    <string name="homepage">Homepage:</string>
+    <string name="release_date">Release date:</string>
+    <string name="error_message">There is an error occurred. Please try again later.</string>
+    <string name="date_filter">Date Filter</string>
+</resources>
